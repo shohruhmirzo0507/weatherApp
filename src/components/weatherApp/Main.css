@@ -1,0 +1,46 @@
+.banner{
+    width: 100%;
+    height: 100vh;
+    opacity: 0.9;
+    background: url("https://www.stormgeo.com/assets/ArticleImages/Weather-resources-for-business.jpg") no-repeat center/cover;
+}
+
+.nav{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.aplication{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.search{
+    width: 500px;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 17px;
+   border-radius: 20px;
+    
+}
+.city{
+    width: 300px;
+    height: 300px;
+    /* color: white; */
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 23px;
+    margin: 200px auto;
+
+}
+
+
+
+
+
+
+
